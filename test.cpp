@@ -4,6 +4,7 @@ int main()
 {
   int a=0;
   cout<<a<<endl;
+  cout<<"test branch"<<endl;
   system("pause");
   return 0; 
 }
